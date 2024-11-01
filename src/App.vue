@@ -126,12 +126,13 @@ button:hover {
   max-width: 800px;
   margin-top: 1rem;
   text-align: center; /* Center the content inside the infos section */
+  margin-bottom: 1rem;
 }
 
 table {
   width: 100%;
   border-collapse: collapse;
-  margin: 0 auto; /* Center the table within its container */
+  margin: 0 auto;
 }
 
 th, td {
